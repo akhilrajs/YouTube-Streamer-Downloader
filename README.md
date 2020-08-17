@@ -4,6 +4,8 @@
 - this can be used to download YouTube videos in the best video format availabele
 - this can be used to download YouTube audios in the highest bitrate available
 
+# WINDOWS INSTALLATION FILE LINK : https://drive.google.com/file/d/14AkunoekkcimgDJ_HmIRIcdo9PYO7INt/view?usp=sharing
+
 # how to use it ?
 - open the YouTube Streamer.exe file
 ![1](https://user-images.githubusercontent.com/67222042/90389698-a9229e80-e0a7-11ea-9719-1d2e2e0478ed.jpeg)
