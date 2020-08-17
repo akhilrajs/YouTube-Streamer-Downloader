@@ -235,7 +235,8 @@ try:
     
     lbl = Label(win, text = "total (audio) (mb) :")
     lbl.grid(column = 0, row = 7, sticky = 'w', padx = 7, pady = 5)
-    
+    lbl = Label(win, text = "coded by : akhil raj s")
+    lbl.grid(column = 0, row = 10, sticky = 'w', padx = 7, pady = 5)
     lbl = Label(win, text = "total (video) (mb) :")
     lbl.grid(column = 0, row = 8, sticky = 'w', padx = 7, pady = 5)
     win.mainloop()
